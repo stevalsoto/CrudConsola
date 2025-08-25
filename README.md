@@ -27,17 +27,17 @@ La finalidad es **practicar la lógica de programación, validación de datos y 
 ---
 
 ## 📂 Estructura del proyecto
-ProyectoCRUD/
-│
-├── Models/
-│ └── Persona.cs
-│
-├── Services/
-│ └── PersonaService.cs
-│
-└── Program.cs
+CRUDConsola/
 
-text
+├── Models/
+
+│ └── Persona.cs
+
+├── Services/
+
+│ └── PersonaService.cs
+
+└── Program.cs
 
 ---
 
