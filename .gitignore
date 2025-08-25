@@ -1,0 +1,13 @@
+# Archivos de compilación
+bin/
+obj/
+
+# Archivos de configuración de usuario de VSCode o Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos temporales
+*.log
+*.tmp
