@@ -1,0 +1,9 @@
+ProyectoCRUD/
+│
+├── Models/
+│   └── Persona.cs
+│
+├── Services/
+│   └── PersonaService.cs
+│
+└── Program.cs

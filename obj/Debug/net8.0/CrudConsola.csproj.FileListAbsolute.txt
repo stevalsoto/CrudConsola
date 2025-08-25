@@ -1,0 +1,14 @@
+C:\Users\steva\OneDrive\Documentos\CrudConsola\bin\Debug\net8.0\CrudConsola.exe
+C:\Users\steva\OneDrive\Documentos\CrudConsola\bin\Debug\net8.0\CrudConsola.deps.json
+C:\Users\steva\OneDrive\Documentos\CrudConsola\bin\Debug\net8.0\CrudConsola.runtimeconfig.json
+C:\Users\steva\OneDrive\Documentos\CrudConsola\bin\Debug\net8.0\CrudConsola.dll
+C:\Users\steva\OneDrive\Documentos\CrudConsola\bin\Debug\net8.0\CrudConsola.pdb
+C:\Users\steva\OneDrive\Documentos\CrudConsola\obj\Debug\net8.0\CrudConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steva\OneDrive\Documentos\CrudConsola\obj\Debug\net8.0\CrudConsola.AssemblyInfoInputs.cache
+C:\Users\steva\OneDrive\Documentos\CrudConsola\obj\Debug\net8.0\CrudConsola.AssemblyInfo.cs
+C:\Users\steva\OneDrive\Documentos\CrudConsola\obj\Debug\net8.0\CrudConsola.csproj.CoreCompileInputs.cache
+C:\Users\steva\OneDrive\Documentos\CrudConsola\obj\Debug\net8.0\CrudConsola.dll
+C:\Users\steva\OneDrive\Documentos\CrudConsola\obj\Debug\net8.0\refint\CrudConsola.dll
+C:\Users\steva\OneDrive\Documentos\CrudConsola\obj\Debug\net8.0\CrudConsola.pdb
+C:\Users\steva\OneDrive\Documentos\CrudConsola\obj\Debug\net8.0\CrudConsola.genruntimeconfig.cache
+C:\Users\steva\OneDrive\Documentos\CrudConsola\obj\Debug\net8.0\ref\CrudConsola.dll
