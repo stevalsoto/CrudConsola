@@ -53,8 +53,8 @@ text
 1. Clonar el repositorio:  
 
    ```bash
-   git clone https://github.com/TU-USUARIO/ProyectoCRUD.git
-   cd ProyectoCRUD
+   git clone https://github.com/TU-USUARIO/CRUDConsola.git
+   cd CRUDConsola
 Compilar y ejecutar la aplicación:
 
 bash
